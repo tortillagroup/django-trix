@@ -13,4 +13,3 @@ document.addEventListener('trix-attachment-add', function(ev) {
   request.send(data);
 
 });
-
